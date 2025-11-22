@@ -16,7 +16,7 @@ int main()
 
 	printf("Enter Second Number: ");
 	scanf("%d", &num2);
-start:
+start: 
 	printf("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division\n5. Exit\n");
 	printf("Enter your choice: ");
 	scanf("%d", &choice);
