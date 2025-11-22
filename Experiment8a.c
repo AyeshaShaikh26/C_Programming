@@ -4,7 +4,7 @@ UIN :251M024
 Class : Mechanical
 Div : F
 Rollno: 21
-*/
+*/ 
 #include <stdio.h>
 
 int main() {
