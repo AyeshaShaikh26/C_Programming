@@ -6,7 +6,7 @@ Div: F
 Rollno: 21
 */
 #include <stdio.h>
-
+  
 int iterative_fact(int num) {
     int fact = 1;
     for (int i = num; i >= 1; i--) {
